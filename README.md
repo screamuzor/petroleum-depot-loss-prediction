@@ -3,9 +3,31 @@ Machine Learning for Product Gain/Loss Prediction in Petroleum Depot Operations
 # Machine Learning for Product Gain/Loss Prediction
 ## A Case Study of PMS and AGO in Depot Operations
 
+## Repository Structure
+
+```text
+petroleum-depot-loss-prediction/
+
+docs/
+    Thesis chapters, abstract, proposal documents
+
+data/
+    Processed datasets and samples
+
+sql/
+    PostgreSQL scripts and queries
+
+notebooks/
+    EDA and machine learning notebooks
+
+reports/
+    Presentations, outputs and reports
+```
+
 ### Author
 Uzoma Eze
 MSc Data Science — University of Europe for Applied Sciences
+
 
 ### Supervisor
 Prof. Farhan Khan
