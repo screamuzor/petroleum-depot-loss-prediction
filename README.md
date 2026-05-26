@@ -1,7 +1,7 @@
 # petroleum-depot-loss-prediction
 Machine Learning for Product Gain/Loss Prediction in Petroleum Depot Operations
 # Machine Learning for Product Gain/Loss Prediction
-## A Case Study of PMS and AGO in a Downstream Depot Operations
+## A Case Study of PMS and AGO in Depot Operations
 
 ### Author
 Uzoma Eze
