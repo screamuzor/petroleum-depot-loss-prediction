@@ -54,6 +54,4 @@ A Case Study of PMS and AGO in a Downstream Depot Operations"
 - Decision Tree Classifier
 
 ### Dataset
-730 daily operational records from a West African 
-petroleum depot covering PMS and AGO products 
-(January — December 2025)
+4,264 tank-day records and 730 depot-level daily summaries from a West African petroleum depot covering PMS and AGO products across 11 months of 2025 (January — December), sourced from M2 depot summary reports and D2 individual tank daily reports"
